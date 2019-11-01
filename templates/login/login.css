@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: rgb(230,245,255);
+}
+
+h1 {
+  color: MediumSeaGreen;
+}
+
+input[type=text] {
+  border: 1px solid #222;
+}
+
+input[type=password] {
+  border: 1px solid #222;
+}
